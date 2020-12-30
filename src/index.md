@@ -1,8 +1,10 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Living Life'
 ---
 
-Eleventy Duo is a production-ready and SEO-friendly starter for building a blog or personal website. Comes with a customisable duotone theme, minimal and clean design.
+Excuse the mess as I move into this new template.
+
+
 
 Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.

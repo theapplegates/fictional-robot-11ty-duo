@@ -1,12 +1,12 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Living Life",
   "description": "A minimalist Eleventy theme for personal blog.",
   "subtitle": "A minimalist Eleventy theme for personal blog.",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://jovial-11ty-duo-2bf66d.netlify.app/",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Paul Applegate",
+    "email": "me@paulapplegate.com",
+    "twitterHandle": "papplegate"
   },
   "socialImage": "/images/social-image.png"
 }
